@@ -4,7 +4,7 @@
 
 🤝 I thrive in collaborative environments, where I can share insights, learn from others, and grow together. Open to feedback and always eager to explore new horizons, I'm committed to delivering impactful solutions that delight users and make the web a better place.
 
-👩🏽‍💻Skills: REACT / JS / node.js / HTML / CSS / Firebase / Firestore / UX Design
+👩🏽‍💻Skills: REACT / JS / node.js / HTML / CSS / Firebase / Firestore / UX Design/ SASS / GULP
 
 📫Reach me on [Linkedin](https://www.linkedin.com/in/mariaignaciasilva/)
 
